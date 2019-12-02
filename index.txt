@@ -1,0 +1,20 @@
+Х <!doctype html>
+Х <html>
+Х <head>
+Х <meta charset="utf-8">
+Х <title>ћо€ лична€ страничка</title>
+Х </head>
+Х <body>
+Х <left><h1>Le Hong Sao Mai</h1></left>
+Х <left><img alt="Ёто €" width="15%" src="me.jpg"></left>
+Х <br/>
+Х <h2> онтакты:</h2>
+Х —траничка <a href=https://vk.com/id272244392
+Х <br/>
+Х <a href=https://github.com/maikale42
+Х <br/>
+Х “елефон: <b>+79623265932</b>
+Х <br/>
+Х E-mail: <i>maikale4200@gmail.com</i>
+Х </body>
+Х </html>
